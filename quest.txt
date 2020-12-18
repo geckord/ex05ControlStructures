@@ -1,0 +1,7 @@
+1) The digits (0-9) have ASCII values between and including: 48 and 57.
+2) Upper case letters have ASCII values between and including: 65 and 90.
+3) Lower case letters have ASCII values between and including: 97 and 122.
+4) The rest of the characters in the range 33 and 126 are symbols such <, =, + and punctuations marks such as:
+!, ?, : etc.
+Develop a program in which you ask a user to enter one character and the program will display a message that tells
+which category this character belongs to.
